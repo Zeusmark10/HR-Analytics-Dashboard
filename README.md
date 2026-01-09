@@ -73,7 +73,7 @@ Exploratory Data Analysis (EDA) was conducted using Python to:
 - Analyze distributions and summary statistics
 - Identify early trends related to attrition
 
-📘 **Notebook**: `notebooks/HR_Attrition_EDA.ipynb`
+📘 **Notebook**: `HR Analytics Data Exploration.ipynb`
 
 ---
 
@@ -84,7 +84,7 @@ Interactive dashboards were built in Tableau to visually explore employee attrit
 
 ### 📊 Dashboard 1: Employee Demographics & Compensation
 
-![Dashboard 1](tableau_dashboard.png)
+![Dashboard 1](tableau_dashboard.PNG)
 
 **Graph 1: Employee Count by Experience**  
 This visualization shows employee count by years spent at the company. Attrition is highest during the initial years of employment, despite a large number of employees. As tenure increases, attrition significantly decreases, indicating higher employee stability over time.
