@@ -84,7 +84,7 @@ Interactive dashboards were built in Tableau to visually explore employee attrit
 
 ### 📊 Dashboard 1: Employee Demographics & Compensation
 
-![Dashboard 1](images/dashboard_1_employee_overview.png)
+![Dashboard 1](tableau dashboard.png)
 
 **Graph 1: Employee Count by Experience**  
 This visualization shows employee count by years spent at the company. Attrition is highest during the initial years of employment, despite a large number of employees. As tenure increases, attrition significantly decreases, indicating higher employee stability over time.
