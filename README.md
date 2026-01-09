@@ -26,7 +26,7 @@ The dataset contains both numerical and categorical variables relevant to workfo
 ## 🧾 Column Description
 
 | Column Name | Category | Description |
-|------------|----------|----------|-------------|
+|------------|----------|-------------|
 | Age | Numerical | Age of the employee |
 | Attrition |Categorical | Indicates whether the employee left the company |
 | BusinessTravel | Categorical | Frequency of business travel |
